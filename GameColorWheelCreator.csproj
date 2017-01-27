@@ -83,7 +83,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Game Color Wheel Creator.ico" />
     <Content Include="GCW.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
