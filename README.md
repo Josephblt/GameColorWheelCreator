@@ -3,5 +3,5 @@ This is the tool used to create those awesome Color Wheels available at https://
 
 Latest Stable Release
 
-Game Color Wheel Creator V1.0
+## Game Color Wheel Creator V1.0
 https://github.com/Josephblt/GameColorWheelCreator/releases/tag/1.0
