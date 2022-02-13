@@ -3,7 +3,7 @@ This is the tool used to create those awesome Color Wheels available at https://
 
 ## Itch.IO
 For pictures of the creator in action visit the app page on Itch.IO:
-https://josephblt.itch.io/rubiks-challenge
+https://josephblt.itch.io/game-color-wheel-creator
 
 ## Instructions
 1. [Download](https://github.com/Josephblt/GameColorWheelCreator/releases/download/1.1/GameColorWheelCreator.exe)
